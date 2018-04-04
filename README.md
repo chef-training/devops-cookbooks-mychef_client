@@ -1,1 +1,1 @@
-# devops-cookbooks-mychef_client
+This repo contains the 'mychef-client' cookbook associated with the DevOps Foundation class.
